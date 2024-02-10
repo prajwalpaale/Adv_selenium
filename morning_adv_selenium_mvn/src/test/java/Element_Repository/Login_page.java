@@ -27,6 +27,6 @@ public class Login_page {
 	{
 		return pwd_TF;
 	}
-	
+	//ok checked
 
 }
